@@ -42,6 +42,15 @@
 </div>
 
 ###
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var links = document.querySelectorAll('a[href^="http"]');
+    links.forEach(function(link) {
+        link.setAttribute('target', '_blank');
+    });
+});
+</script>
+
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zwique&show_icons=true&theme=vision-friendly-dark">
