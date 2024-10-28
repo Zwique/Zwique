@@ -23,9 +23,3 @@
 ###
 
 <h4 align="left">In addition to hacking, I am dedicated to continually developing my programming abilities through online platforms. These efforts aren't just for my future career; they represent a personal hobby that has become deeply intertwined with my aspirations in the cybersecurity industry. This dual dedication pushes me to succeed and makes sure I'm ready for the advancements and difficulties this fast-paced industry will present.</h4>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zwique&show_icons=true&line_height=33&count_private=true&theme=light" alt="Zwique's GitHub Stats" />
-
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
