@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Erdembileg Ariunbold and I'm a student, from Mongolia.</h2>
+<h2 align="left">Hi 👋! My name is Erdembileg Ariunbold. </h2>
 
 ###
 
