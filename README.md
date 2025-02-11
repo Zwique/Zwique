@@ -55,6 +55,8 @@
 
 ###
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zwique&show_icons=true&theme=transparent)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
