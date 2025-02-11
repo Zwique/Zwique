@@ -49,6 +49,10 @@
   </a>
 </div>
 
+<div align="center">
+  Personal blog : https://zwique.gitbook.io
+</div>
+
 ###
 
 <h2 align="left">Stats</h2>
@@ -58,4 +62,7 @@
 [![Zwique's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Zwique&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Zwique's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Zwique&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+
 <img src="https://raw.githubusercontent.com/Zwique/Zwique/output/snake.svg" alt="Snake animation" />
+
+###
