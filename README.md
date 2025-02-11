@@ -47,7 +47,10 @@
   <a href="https://www.youtube.com/@Zwique" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
+  
+  [ ![Zwique](https://www.hackthebox.eu/badge/image/915327)](https://www.hackthebox.eu/home/users/profile/915327)
 </div>
+###
 
 <div align="center">
   Personal blog : https://zwique.gitbook.io
