@@ -36,24 +36,25 @@
 
 <div align="center">
   <a href="https://discord.com/users/947505557844135977" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" target="_blank" />
   </a>
-  <a href="zwique.gn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:zwique.gn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/erdembileg-ariunbold-294439286/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" target="_blank" />
   </a>
   <a href="https://www.youtube.com/@Zwique" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" target="_blank" />
   </a>
   
   [ ![Zwique](https://www.hackthebox.eu/badge/image/915327)](https://www.hackthebox.eu/home/users/profile/915327)
 </div>
+
 ###
 
 <div align="center">
-  Personal blog : https://zwique.gitbook.io
+  <h3> Personal blog : <a href="https://zwique.gitbook.io" target="_blank" > here </a> </h3>
 </div>
 
 ###
