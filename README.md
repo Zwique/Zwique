@@ -63,6 +63,6 @@
 [![Zwique's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Zwique&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-<img src="https://raw.githubusercontent.com/Zwique/Zwique/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Zwique/Zwique/output/github-snake.svg" alt="Snake animation" />
 
 ###
