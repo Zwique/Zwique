@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <h2><a href="https://zwique.gitbook.io" target="_blank" > Personal blog </a></h2>
+  <h2> Personal blog: https://zwique.gitbook.io/ </h2>
 </div>
 
 ###
