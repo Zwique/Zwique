@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-I'm a passionate cybersecurity enthusiast and currently the President of the Cybersecurity Club at UAC. My interests include CTF challenges, ethical hacking, and exploring the intricacies of operating systems. I'm always eager to learn and collaborate on projects that enhance digital security. I'm currently a staff member of the <a href="https://blitzhack.xyz/">BlitzHack</a> CTF team.
+I'm a passionate cybersecurity enthusiast and currently the President of the Cybersecurity Club at UAC. My interests include CTF challenges, ethical hacking, and exploring the intricacies of operating systems. I'm always eager to learn and collaborate on projects that enhance digital security. 
 </p>
 
 ###
