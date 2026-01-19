@@ -51,7 +51,7 @@ I'm a cybersecurity enthusiast focused on offensive security, red teaming, and s
   </a>
 </div>
 
-<div align="center">
+<div align="center"> 
   <a href="https://app.hackthebox.com/users/915327" target="_blank">
     <img src="https://www.hackthebox.eu/badge/image/915327" alt="Zwique's Hack The Box Profile" />
   </a>
