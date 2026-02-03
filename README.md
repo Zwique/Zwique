@@ -14,9 +14,9 @@ I'm a cybersecurity enthusiast focused on offensive security, red teaming, and s
 
 <h2 align="left">📄 Resume</h2>
 <p>
-You can view or download my resume here:<br/>
-<a href="https://github.com/Zwique/Zwique/raw/main/Resume_Erdembileg.pdf" target="_blank"><b>Resume</b></a>
-</p>
+You can view my resume here:<br/>
+<a href="https://github.com/Zwique/Zwique/blob/main/Resume_Erdembileg.pdf" target="_blank"><b>Open Resume</b></a>
+</p
 
 ###
 
