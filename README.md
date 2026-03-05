@@ -9,7 +9,15 @@
 <p align="left">
 I'm a cybersecurity enthusiast focused on offensive security, red teaming, and software development. My interests include CTF challenges, exploit development, and exploring operating system internals. I enjoy breaking systems to understand them better and collaborating on security-focused projects. Currently the member of <a href="https://ctftime.org/team/132776" target="_blank">0xL4ugh</a> CTF team.
 </p>
+###
 
+<h2 align="left">CVEs</h2>
+
+- CVE-2026-30224 ⁠
+- CVE-2026-30223 ⁠
+- CVE-2026-30225 ⁠
+- CVE-2026-30233⁠
+###
 ###
 <h2 align="left">📄 Resume</h2>
 <p>
