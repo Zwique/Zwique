@@ -17,7 +17,8 @@ I'm a cybersecurity enthusiast focused on offensive security, red teaming, and s
 - [CVE-2026-30225](https://github.com/OliveTin/OliveTin/security/advisories/GHSA-p443-p7w5-2f7f)
 - [CVE-2026-30233](https://github.com/OliveTin/OliveTin/security/advisories/GHSA-jf73-858c-54pg)
 - [CVE-2026-30869](https://github.com/siyuan-note/siyuan/security/advisories/GHSA-2h2p-mvfx-868w)
-⁠- [CVE-2026-30926](https://github.com/siyuan-note/siyuan/security/advisories/GHSA-f9cq-v43p-v523)
+- [CVE-2026-30926](https://github.com/siyuan-note/siyuan/security/advisories/GHSA-f9cq-v43p-v523)
+
 ###
 
 <h2 align="left">📄 Resume</h2>
