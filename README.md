@@ -19,6 +19,7 @@ I'm a cybersecurity enthusiast focused on offensive security, red teaming, and s
 - [CVE-2026-30869](https://github.com/siyuan-note/siyuan/security/advisories/GHSA-2h2p-mvfx-868w)
 - [CVE-2026-30926](https://github.com/siyuan-note/siyuan/security/advisories/GHSA-f9cq-v43p-v523)
 - [CVE-2026-30956](https://github.com/OneUptime/oneuptime/security/advisories/GHSA-r5v6-2599-9g3m)
+- [CVE-2026-32723](https://github.com/nyariv/SandboxJS/security/advisories/GHSA-7p5m-xrh7-769r)
 
 ###
 
