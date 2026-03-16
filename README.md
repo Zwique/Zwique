@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-I'm a cybersecurity enthusiast focused on offensive security, red teaming, and software development. My interests include CTF challenges, exploit development, and exploring operating system internals. I enjoy breaking systems to understand them better and collaborating on security-focused projects. Currently the member of <a href="https://ctftime.org/team/132776" target="_blank">0xL4ugh</a> CTF team.
+I'm a cybersecurity enthusiast focused on offensive security, red teaming, and software development. My interests include CTF challenges, exploit development, and exploring operating system internals. I enjoy breaking systems to understand them better and collaborating on security-focused projects.
 </p>
 
 <h2 align="left">CVEs</h2>
