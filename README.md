@@ -26,7 +26,7 @@ I'm a cybersecurity enthusiast focused on offensive security, red teaming, and s
 <h2 align="left">📄 Resume</h2>
 <p>
 You can view my resume here:<br/>
-<a href="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSQLD7d7YuSCaHXDmYUeJ%2Fuploads%2FtlzUEQfV42FKr58KukKZ%2FResume_Erdembileg.pdf?alt=media&token=5dcc2327-f8a9-4f10-9acd-e2a31c2e16d8" target="_blank"><b>Open Resume</b></a>
+<a href="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSQLD7d7YuSCaHXDmYUeJ%2Fuploads%2FEuSviQeSCiMn5GyipZ43%2FResume_Erdembileg.pdf?alt=media&token=ed4769fa-8382-48f2-9c04-5be511443781" target="_blank"><b>Open Resume</b></a>
 </p>
 
 
