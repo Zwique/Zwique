@@ -12,15 +12,7 @@ I'm a cybersecurity enthusiast focused on offensive security, red teaming, and s
 
 <h2 align="left">CVEs</h2>
 
-- [CVE-2026-30224](https://github.com/OliveTin/OliveTin/security/advisories/GHSA-gq2m-77hf-vwgh)
-- [CVE-2026-30223](https://github.com/OliveTin/OliveTin/security/advisories/GHSA-g962-2j28-3cg9)
-- [CVE-2026-30225](https://github.com/OliveTin/OliveTin/security/advisories/GHSA-p443-p7w5-2f7f)
-- [CVE-2026-30233](https://github.com/OliveTin/OliveTin/security/advisories/GHSA-jf73-858c-54pg)
-- [CVE-2026-30869](https://github.com/siyuan-note/siyuan/security/advisories/GHSA-2h2p-mvfx-868w)
-- [CVE-2026-30926](https://github.com/siyuan-note/siyuan/security/advisories/GHSA-f9cq-v43p-v523)
-- [CVE-2026-30956](https://github.com/OneUptime/oneuptime/security/advisories/GHSA-r5v6-2599-9g3m)
-- [CVE-2026-32723](https://github.com/nyariv/SandboxJS/security/advisories/GHSA-7p5m-xrh7-769r)
-- [CVE-2026-35051](https://github.com/traefik/traefik/security/advisories/GHSA-6384-m2mw-rf54)
+https://github.com/advisories?query=credit%3AZwique
 
 ###
 
