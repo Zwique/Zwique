@@ -19,7 +19,7 @@ https://github.com/advisories?query=credit%3AZwique
 <h2 align="left">📄 Resume</h2>
 <p>
 You can view my resume here:<br/>
-<a href="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSQLD7d7YuSCaHXDmYUeJ%2Fuploads%2FhZKw7ThNPUuYhwflYmfg%2FResume%20-%20Erdembileg.pdf?alt=media&token=77e5ed44-693f-4b3d-b562-4d0c53b531f7" target="_blank"><b>Open Resume</b></a>
+<a href="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSQLD7d7YuSCaHXDmYUeJ%2Fuploads%2FckHdphbL44tIbfmx7qfJ%2FResume%20-%20Erdembileg.pdf?alt=media&token=9f35b695-6077-4e84-9a33-5ceaaa984aa6" target="_blank"><b>Open Resume</b></a>
 </p>
 
 
