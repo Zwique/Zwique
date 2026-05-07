@@ -49,7 +49,21 @@ You can view my resume here:<br/>
 </div>
 
 ###
+###
 
+<h2 align="left"> Portfolio & Writeups</h2>
+
+<p align="left">
+I publish security notes, writeups, and research documentation on my GitBook.
+</p>
+
+<p align="left">
+  <a href="https://zwique.gitbook.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20My%20Writeups-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook Writeups" />
+  </a>
+</p>
+
+###
 <h2 align="left">Connection</h2>
 
 ###
@@ -72,13 +86,6 @@ You can view my resume here:<br/>
   </a>
 </div>
 
-###
-
-<div align="center">
-  <a href="https://zwique.gitbook.io/">
-    <img src="https://img.shields.io/website?label=zwique.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fzwique.gitbook.io" alt="GitBook Website" />
-  </a>
-</div>
 
 ###
 
