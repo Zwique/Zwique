@@ -22,6 +22,21 @@ You can view my resume here:<br/>
 <a href="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSQLD7d7YuSCaHXDmYUeJ%2Fuploads%2FckHdphbL44tIbfmx7qfJ%2FResume%20-%20Erdembileg.pdf?alt=media&token=9f35b695-6077-4e84-9a33-5ceaaa984aa6" target="_blank"><b>Open Resume</b></a>
 </p>
 
+###
+
+<h2 align="left"> Portfolio & Writeups</h2>
+
+###
+
+<p align="left">
+I publish security notes, writeups, and research documentation on my GitBook.
+</p>
+
+<p align="left">
+  <a href="https://zwique.gitbook.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20My%20Writeups-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook Writeups" />
+  </a>
+</p>
 
 ###
 
@@ -48,20 +63,7 @@ You can view my resume here:<br/>
   <img width="12" />
 </div>
 
-###
-###
 
-<h2 align="left"> Portfolio & Writeups</h2>
-
-<p align="left">
-I publish security notes, writeups, and research documentation on my GitBook.
-</p>
-
-<p align="left">
-  <a href="https://zwique.gitbook.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20My%20Writeups-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook Writeups" />
-  </a>
-</p>
 
 ###
 <h2 align="left">Connection</h2>
