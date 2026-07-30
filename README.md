@@ -19,7 +19,7 @@ https://github.com/advisories?query=credit%3AZwique
 <h2 align="left"> Resume</h2>
 <p>
 You can view my resume here:<br/>
-<a href="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSQLD7d7YuSCaHXDmYUeJ%2Fuploads%2FqA5TDDvNM1TyVSQ5cUlz%2FResume%20-%20Erdembileg%20Ariunbold.pdf?alt=media&token=c26a70aa-48e2-4cf4-b035-263aeffeaa2d" target="_blank"><b>Open Resume</b></a>
+<a href="https://zwique.gitbook.io/zwique_notes/contact" target="_blank"><b>Open Resume</b></a>
 </p>
 
 ###
