@@ -8,6 +8,7 @@
 
 <p align="left">
 I'm a cybersecurity researcher focused on offensive security, red teaming, and software development. My interests include CTF challenges, exploit development, and exploring operating system internals. I enjoy breaking systems to understand them better and collaborating on security-focused projects.
+  
 </p>
 
 <h2 align="left">CVEs</h2>
