@@ -1,22 +1,9 @@
-<h1 align="left">Hi 👋!</h1>
+<h1 align="left">Hi!</h1>
 
-<h2 align="left">📌 Resume & Security Portfolio</h2>
+<h2 align="left">Resume and Portfolio</h2>
 
-<p align="left"><strong>Recruiters & collaborators:</strong> Explore my background and hands-on cybersecurity work.</p>
-
-<p align="left">
-  <a href="https://zwique.gitbook.io/zwique_notes/contact" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View my resume" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://zwique.gitbook.io/" target="_blank">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20SECURITY%20WRITEUPS-047857?style=for-the-badge&logo=gitbook&logoColor=white" alt="Explore my cybersecurity portfolio and writeups" height="42" />
-  </a>
-</p>
-
-<p align="left"><sub>📄 Resume: education, experience & certifications &nbsp; • &nbsp; 🔐 Portfolio: research, exploit development & CTF writeups</sub></p>
-
-###
+- **[Resume](https://zwique.gitbook.io/zwique_notes/contact)** — Education, experience, and certifications.
+- **[Security Portfolio & Writeups](https://zwique.gitbook.io/)** — Security research, technical notes, and CTF writeups.
 
 <h2 align="left">About me</h2>
 
