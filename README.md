@@ -1,9 +1,5 @@
 <h1 align="left">Hi!</h1>
 
-<h2 align="left">Resume and Portfolio</h2>
-
-- **[Resume](https://zwique.gitbook.io/zwique_notes/contact)** — Education, experience, and certifications.
-- **[Security Portfolio & Writeups](https://zwique.gitbook.io/)** — Security research, technical notes, and CTF writeups.
 
 <h2 align="left">About me</h2>
 
@@ -13,6 +9,12 @@
 I'm a cybersecurity researcher focused on offensive security, red teaming, and software development. My interests include CTF challenges, exploit development, and exploring operating system internals. I enjoy breaking systems to understand them better and collaborating on security-focused projects.
   
 </p>
+
+<h2 align="left">Resume and Portfolio</h2>
+
+- **[Resume](https://zwique.gitbook.io/zwique_notes/contact)** — Education, experience, and certifications.
+- **[Security Portfolio & Writeups](https://zwique.gitbook.io/)** — Security research, technical notes, and CTF writeups.
+
 
 <h2 align="left">CVEs</h2>
 
