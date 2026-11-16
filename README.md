@@ -1,5 +1,21 @@
 <h1 align="left">Hi 👋!</h1>
 
+<h2 align="left">📌 Resume & Security Portfolio</h2>
+
+<p align="left"><strong>Recruiters & collaborators:</strong> Explore my background and hands-on cybersecurity work.</p>
+
+<p align="left">
+  <a href="https://zwique.gitbook.io/zwique_notes/contact" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View my resume" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://zwique.gitbook.io/" target="_blank">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20SECURITY%20WRITEUPS-047857?style=for-the-badge&logo=gitbook&logoColor=white" alt="Explore my cybersecurity portfolio and writeups" height="42" />
+  </a>
+</p>
+
+<p align="left"><sub>📄 Resume: education, experience & certifications &nbsp; • &nbsp; 🔐 Portfolio: research, exploit development & CTF writeups</sub></p>
+
 ###
 
 <h2 align="left">About me</h2>
@@ -14,32 +30,6 @@ I'm a cybersecurity researcher focused on offensive security, red teaming, and s
 <h2 align="left">CVEs</h2>
 
 https://github.com/advisories?query=credit%3AZwique
-
-###
-
-<h2 align="left"> Resume</h2>
-<p>
-You can view my resume here:<br/>
-<a href="https://zwique.gitbook.io/zwique_notes/contact" target="_blank"><b>Open Resume</b></a>
-</p>
-
-###
-
-<h2 align="left"> Portfolio & Writeups</h2>
-
-###
-
-<p align="left">
-I publish security notes, writeups, and research documentation on my GitBook.
-</p>
-
-<p align="left">
-  <a href="https://zwique.gitbook.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20My%20Writeups-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook Writeups" />
-  </a>
-</p>
-
-###
 
 <h2 align="left">Languages and Tools</h2>
 
